@@ -9,13 +9,13 @@ const next = document.getElementById("next")
 const songs=[
 {
 	name: "fitoor",
-	title: "Tera Fitoor",
+	title: "Fitoor",
 	artist:"Arijit Singh",
 },
 {
 	name: "veerzara",
 	title: "Tere Liye",
-	artist:"Lata Mangeshkar",
+	artist:"Lata Ji",
 },
 {
 	name: "vilen_chidiya",
@@ -25,7 +25,7 @@ const songs=[
 {
 	name: "falaktak",
 	title: "Falak Tak",
-	artist:"Udit Narayan",
+	artist:"Udit Ji",
 },
 ]
 
