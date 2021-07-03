@@ -5,7 +5,7 @@
 	background-color: #f6f6f6;
 	display:grid;
 	place-items:center;
-	background: url(images/bg.jpg);
+	background: url(img/bg.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	
